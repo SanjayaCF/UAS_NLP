@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tugas Akhir NLP</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Tugas Pemrograman Akhir NLP | Tugas B</h1>
+    <p class="authors">
+      <strong>
+        71220840 - Rendy Ananta Kristanto<br>
+        71220841 - Yosua Sutanto Putra<br>
+        71220965 - Sanjaya Cahyadi Fuad
+      </strong>
+    </p>
+
+    <div class="section">
+      <h2>Total</h2>
+      <div class="stats">
+        <div class="stat-box">
+          <div><strong>Dokumen</strong></div>
+          <div id="stat-doc">{{ stats['doc_count'] }}</div>
+        </div>
+        <div class="stat-box">
+          <div><strong>Unigram</strong></div>
+          <div id="stat-uni">{{ stats['num_unigram'] }}</div>
+        </div>
+        <div class="stat-box">
+          <div><strong>Bigram</strong></div>
+          <div id="stat-bi">{{ stats['num_bigram'] }}</div>
+        </div>
+        <div class="stat-box">
+          <div><strong>Trigram</strong></div>
+          <div id="stat-tri">{{ stats['num_trigram'] }}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Reset Sumber</h2>
+      <form action="/reset" method="post"
+            onsubmit="return confirm('Yakin ingin mereset semua dokumen? Ini akan menghapus seluruh .txt dan mengosongkan state.');">
+        <button type="submit" class="btn-reset">
+          Reset Dokumen dan Pickle
+        </button>
+      </form>
+    </div>
+
+    <div class="section">
+      <h2>Unggah Dokumen .txt</h2>
+      <form id="upload-form" method="post" enctype="multipart/form-data">
+        <input type="file" name="documents" multiple accept=".txt"/><br/>
+        <button type="submit" name="upload" class="btn-upload">
+          Upload & Proses Dokumen
+        </button>
+      </form>
+    </div>
+
+    <div class="section panel">
+      <h2>Query: Prediksi Kata & Dokumen Relevan</h2>
+      <form id="predict-form">
+        <label>Masukkan satu atau dua kata:</label><br/>
+        <input type="text" id="query" class="input-query"/><br/>
+        <button type="submit" class="btn-predict">Prediksi & Cari Dokumen</button>
+      </form>
+
+      <div id="predict-results" class="results" style="margin-top:20px;"></div>
+      <div id="docs-results" class="results" style="margin-top:20px;"></div>
+      <canvas id="simChart" class="chart" style="max-width:100%; margin-top:20px;"></canvas>
+    </div>
+
+    {% if has_visuals %}
+      <div class="section">
+        <h2>☁️ Word Cloud</h2>
+        <img id="wc-img" src="{{ url_for('static', filename='wordcloud.png') }}" alt="Word Cloud"/>
+      </div>
+
+      <div class="section">
+        <h2>📈 Top 10 Token</h2>
+        <img id="top-img" src="{{ url_for('static', filename='top_tokens.png') }}" alt="Top 10 Token"/>
+      </div>
+    {% endif %}
+  </div>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
