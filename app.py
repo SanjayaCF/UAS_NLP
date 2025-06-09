@@ -65,13 +65,11 @@ def recompute_df_and_tfidf():
     global df, doc_tf_idf
     df.clear()
 
-    # 1. Hitung DF
     for tokens in documents.values():
         unique_terms = set(tokens)
         for t in unique_terms:
             df[t] += 1
 
-    # 2. Hitung TF-IDF untuk tiap dokumen
     N = len(documents)
     doc_tf_idf.clear()
     for fname, term_counts in doc_term_freq.items():
