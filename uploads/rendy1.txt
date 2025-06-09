@@ -1,0 +1,59 @@
+Apa Itu Kecerdasan Buatan (AI)?
+Kecerdasan buatan (AI) adalah teknologi yang memiliki kemampuan pemecahan masalah layaknya manusia. AI dalam tindakannya tampak seperti menirukan kecerdasan manusia—teknologi ini dapat mengenali gambar, menulis puisi, dan membuat prediksi berbasis data. 
+
+Apa itu Kecerdasan Buatan (AI)?
+AI, yang juga dikenal sebagai kecerdasan buatan, adalah teknologi yang memiliki kemampuan pemecahan masalah layaknya manusia. Dalam praktiknya, AI akan menyimulasikan kecerdasan manusia—teknologi ini dapat mengenali gambar, menulis puisi, dan membuat prediksi berbasis data. 
+
+Organisasi modern mengumpulkan data dalam jumlah besar dari beragam sumber, seperti sensor pintar, konten buatan manusia, alat pemantauan, dan log sistem. Teknologi kecerdasan buatan menganalisis data dan menggunakannya untuk membantu operasi bisnis secara efektif. Misalnya, teknologi AI dapat merespons percakapan manusia dalam dukungan pelanggan, membuat gambar dan teks orisinal untuk pemasaran, serta membuat saran cerdas untuk analitik.
+
+Pada akhirnya, kecerdasan buatan adalah tentang membuat perangkat lunak menjadi lebih pintar untuk interaksi pengguna yang dikustom dan pemecahan masalah yang kompleks.
+
+Bentuk berwarna-warni
+Apa saja jenis teknologi AI?
+Aplikasi dan teknologi AI telah meningkat secara eksponensial dalam beberapa tahun terakhir. Di bawah ini adalah beberapa contoh teknologi AI umum yang mungkin Anda temui.
+
+Pembuatan gambar
+Pembuatan gambar melibatkan AI yang membuat gambar baru dari awal atau berdasarkan deskripsi. Misalnya, AI dapat mengambil prompt teks sederhana seperti “matahari terbenam di atas pegunungan” dan menghasilkan gambar realistis atau artistik dari pemandangan itu. Teknologi ini digunakan dalam seni, hiburan, dan pemasaran, yang memungkinkan pencipta untuk memvisualisasikan konsep dengan cepat dan efisien.
+
+Pembuatan teks
+Pembuatan teks adalah ketika AI menulis teks secara otomatis, meniru gaya penulisan manusia. Pembuatan teks dapat membuat apa saja mulai dari kalimat sederhana hingga artikel, puisi, atau cerita yang lengkap. Teknologi ini digunakan dalam chatbot, pembuatan konten, dan bahkan untuk menulis email atau laporan.
+Pembuatan dan pengenalan ucapan
+Pembuatan ucapan memungkinkan AI menghasilkan kata-kata yang diucapkan, seperti bagaimana asisten virtual (seperti Alexa) berbicara dengan Anda. Pengenalan ucapan adalah ketika AI memahami dan memproses ucapan manusia. Teknologi ini banyak digunakan dalam perangkat yang diaktifkan suara, hotline layanan pelanggan, dan bahkan dalam membantu penyandang disabilitas berkomunikasi dengan lebih efektif.
+AI Multimodal
+AI Multimodal menggabungkan berbagai tipe data, seperti teks, gambar, dan suara untuk menciptakan pemahaman informasi yang lebih komprehensif. Misalnya, AI multimodal dapat menganalisis video dengan memahami kata-kata dan objek yang diucapkan dalam video dan membaca teks apa pun yang muncul di layar. Bentuk AI canggih ini digunakan di bidang-bidang seperti kendaraan otonom, di mana memahami dan menafsirkan beberapa tipe data secara bersamaan sangat penting untuk operasi yang aman.
+
+
+Sejarah AI
+Dalam makalahnya pada tahun 1950, “Computing Machinery and Intelligence,” Alan Turing mempertimbangkan apakah mesin dapat berpikir. Dalam makalah ini, Turing pertama kali menciptakan istilah kecerdasan buatan dan menyajikannya sebagai konsep teoretis dan filosofis.  Namun, AI, seperti yang kita kenal sekarang, adalah hasil dari upaya kolektif banyak ilmuwan dan rekayasawan selama beberapa dekade.
+
+1940-1980
+Pada tahun 1943, Warren McCulloch dan Walter Pitts mengusulkan model neuron buatan yang meletakkan dasar untuk jaringan neural, teknologi inti dalam AI.
+
+Segera setelah itu, pada tahun 1950, Alan Turing menerbitkan “Computing Machinery and Intelligence,” memperkenalkan konsep Tes Turing untuk menilai kecerdasan mesin.
+
+Hal ini mendorong mahasiswa pascasarjana Marvin Minsky dan Dean Edmonds, membangun mesin jaring neural pertama yang dikenal sebagai SNARC, Frank Rosenblatt mengembangkan Perceptron yang merupakan salah satu model paling awal dari jaringan neural, dan Joseph Weizenbaum menciptakan ELIZA, salah satu chatbot pertama untuk mensimulasikan psikoterapis Rogerian antara tahun 1951 dan 1969.
+
+Dari tahun 1969 hingga 1979, Marvin Minsky menunjukkan keterbatasan jaringan neural, yang mengakibatkan penurunan sementara dalam penelitian jaringan neural. “Musim dingin AI” pertama terjadi karena berkurangnya pendanaan dan keterbatasan perangkat keras dan komputasi.
+
+1980-2006
+Pada tahun 1980-an, ada minat baru dan dana pemerintah untuk penelitian AI terutama dalam penerjemahan dan transkripsi. Selama waktu ini, sistem ahli, seperti MYCIN, menjadi populer karena sistem menyimulasikan proses pengambilan keputusan manusia dalam domain tertentu, seperti kedokteran. Dengan kebangkitan jaringan neural pada tahun 1980-an, David Rumelhart dan John Hopfield menerbitkan makalah tentang teknik deep learning yang menunjukkan bahwa komputer dapat belajar dari pengalaman
+
+Dari tahun 1987-1997, karena faktor sosial ekonomi lainnya dan ledakan dot-com, musim dingin AI kedua muncul. Penelitian AI menjadi lebih terfragmentasi, dengan tim yang memecahkan masalah khusus domain di berbagai kasus penggunaan.
+
+Mulai dari tahun 1997 hingga sekitar tahun 2006, kami melihat pencapaian yang signifikan dalam AI, termasuk perangkat lunak catur Deep Blue milik IBM yang mengalahkan juara catur dunia, Garry Kasparov. Selain itu, Judea Pearl menerbitkan sebuah buku yang menyertakan teori probabilitas dan keputusan dalam penelitian AI dan Geoffrey Hinton serta yang lainnya mempopulerkan deep learning, yang mengarah pada kebangkitan jaringan neural. Namun, kepentingan komersial tetap terbatas.
+
+2007-Sekarang
+Dari tahun 2007 hingga 2018, kemajuan dalam komputasi cloud membuat daya komputasi dan infrastruktur AI lebih mudah diakses. Hal ini menyebabkan peningkatan adopsi, inovasi, dan kemajuan dalam machine learning. Kemajuan ini meliputi arsitektur jaringan neural konvolusi (CNN) yang disebut AlexNet, dikembangkan oleh Alex Krizhevsky, Ilya Sutskever, dan Geoffrey Hinton, yang memenangkan kompetisi ImageNet, menunjukkan kekuatan deep learning dalam pengenalan gambar dan AlphaZero Google yang menguasai permainan catur, shogi, dan Go tanpa data manusia, dengan mengandalkan permainan sendiri.
+
+Pada tahun 2022, chatbot yang menggunakan kecerdasan buatan (AI) dan pemrosesan bahasa alami (NLP) untuk melakukan percakapan mirip manusia dan menyelesaikan tugas, seperti ChatGPT OpenAI, menjadi terkenal karena kemampuannya berkomunikasi, yang memperbarui minat dan pengembangan dalam AI.
+
+AI di masa depan
+Teknologi kecerdasan buatan saat ini semuanya berfungsi dalam satu set parameter yang telah ditentukan sebelumnya. Misalnya, model AI yang dilatih dalam pengenalan dan pembuatan gambar tidak dapat membangun situs web.
+
+Artificial General Intelligence (AGI) adalah bidang penelitian AI teoretis yang mencoba membuat perangkat lunak dengan kecerdasan mirip manusia dan kemampuan untuk belajar sendiri. Tujuannya adalah agar perangkat lunak dapat melakukan tugas-tugas yang belum tentu dilatih atau dikembangkan. 
+
+AGI adalah upaya teoritis untuk mengembangkan sistem AI dengan kontrol diri otonom, pemahaman diri yang wajar, dan kemampuan untuk mempelajari keterampilan baru. Ini dapat memecahkan masalah yang kompleks dalam pengaturan dan konteks yang tidak diajarkan pada saat pembuatannya. AGI dengan kemampuan manusia tetap menjadi konsep teoretis dan tujuan penelitian. Ini adalah salah satu kemungkinan masa depan AI.
+
+
+
+

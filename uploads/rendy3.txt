@@ -1,0 +1,99 @@
+Peranan Kecerdasan Buatan (Artificial Intelligence) dalam Pendidikan
+
+Pendahuluan
+
+Teknologi (Artificial Intelligence) AI atau kecerdasan buatan  mengalami perkembangan yang masif dari tahun ke tahun. Kehadirannya dengan fitur, fungsi, dan tampilan yang baru semakin berdampak pada banyak aspek kehidupan manusia tidak terkecuali dalam pendidikan (Luger dan Stubblefield, 1993). Kecerdasan buatan mulai mengambil peran dalam kegiatan pembelajaran di sekolah maupun perguruan tinggi (Mulianingsih, dkk. 2020). kecerdasan buatan menjadi bagian primer dalam tumbuh kembang teknologi pendidikan. Hal ini tentu memberikan implikasi secara eksplisit terhadap kehidupan kerja manusia di masa depan.
+
+Bila kita berbicara teknologi pendidikan, kita harus fair mengatakan bahwa belum sepenuhnya teknologi ini digunakan dalam pembelajaran. di era sekarang yang semakin kompetitif, masih terdapat lembaga pendidikan yang belum menerapkan teknologi dalam kegiatan belajar mengajar. Seyogyanya, sekolah di era sekarang harus memanfaatkan lahirnya teknologi-teknologi yang memudahkan pekerjaan guru ataupun siswa (Tjahyanti, dkk. 2022). sekolah bisa memanfaatkan aplikasi atau media yang dapat mengotomatiskan tugas-tugas seperti memberikan umpan balik, memilih materi pembelajaran yang sesuai, maupun menyelaraskan kurikulum dengan kebutuhan siswa.
+
+Pengertian Kecerdasan Buatan
+
+Teknologi kecerdasan buatan (Artificial Intellegence) AI  terus dikembangkan oleh para ahli sehinggan  dapat berkembang pesat.H. A. Simon mengklaim bahwa kecerdasan buatan (AI) adalah bidang yang memungkinkan komputer melakukan tugas-tugas yang lebih unggul dari manusia. Knight dan Rich setuju dengan Simon bahwa kecerdasan buatan (AI) adalah cabang ilmu komputer yang memandang upaya membangun komputer sebagai sesuatu yang dapat dilakukan manusia, bahkan lebih baik dari itu.
+
+Diciptakannya kecerdasan buatan (Artificial Intellegence) bertujuan antara lain:
+
+1. Diperkirakan AI akan digunakan untuk membuat perangkat lunak atau robot yang dapat membantu manusia dalam rutinitas sehari-hari.
+
+2. Diperkirakan kehadiran AI akan membuat mesin lebih pintar dari sebelumnya.
+
+3. Diharapkan dapat benar-benar membantu manusia dalam memecahkan masalah yang kompleks, seperti melalui pengembangan kalkulator pintar berhitung cepat.
+
+Manusia dapat merasakan berbagai manfaat yang juga dimiliki kecerdasan buatan, seperti:
+
+1. AI tidak memihak, terlepas dari penggunanya. Tanpa memperhitungkan faktor apapun, penilaian yang telah dibuat adalah benar.
+
+2. AI tidak dapat diubah dan tidak dapat diubah. Ini dapat digunakan berulang kali. Kerugian mengadopsi AI termasuk fakta bahwa meskipun akan bekerja tanpa lelah dan terus menerus, sistem tidak akan dapat menyerap masukan yang menyimpang dari apa yang telah diprogram.
+
+Pembahasan
+
+Pembelajaran Mandiri
+
+Setiap orang tua perlu melakukan screening terhadap minat dan bakat yang dimiliki setiap anak. kita tahu, bahwa setiap anak memiliki keistimewaan. jika keterampilan kerja yang diinginkan oleh orang tua diajarkan pada usia muda, anak-anak dapat terus mengembangkannya selama masa belajar mereka di sekolah. salah satu keterampilan yang dapat diajarkan sejak dini adalah kontrol dan pemantauan terhadap pembelajaran mereka sendiri. hal ini juga dikenal dengan istilah pembelajaran mandiri (Zimmerman, 1990). sebuah sistem yang memungkinkan pelajar untuk proaktif mengubah kemampuan mental menjadi keterampilan akademik melalui pemikiran, perasaan, dan perbuatan yang membantu mereka mencapai tujuan.
+
+Pelajar atau siswa yang dapat mengatur sendiri pembelajaran mereka dengan cara ini. rumah dan sekolah melalui orangtua dan guru memfasilitasi dengan baik untuk menavigasi laju kehidupan yang lebih cepat di era kecerdasan buatan. siswa dapat memahami dan mengelola keterbatasan mereka selama belajar. kenyataan yang terjadi di lapangan dapat dikatakan berbeda. meskipun keterampilan belajar mandiri menghasilkan manfaat akademis (Zimmerman, 1990), masih banyak anak-anak yang tidak diberi kesempatan yang cukup di sekolah untuk mengeksplorasi dan mempraktekkan keterampilan ini dengan dukungan guru mereka. ketika anak-anak menggunakan aplikasi pembelajaran digital informal, misal aplikasi Youtube, Instagram atau Tiktok, mereka mungkin memiliki terlalu banyak kebebasan, yang mengakibatkan pembelajaran yang tidak produktif. dapat dikatakan, sekolah masih memihak pada teknologi pendidikan yang formal seperti e-book maupun video animasi. 
+
+Kita kembali dihadapkan dengan pertanyaan apakah anak-anak kita mampu mengendalikan dan menavigasi diri dengan kecerdasan buatan. dengan memilih kecerdasan buatan, tentu memberikan porsi besar atas kendali di pembelajaran. anak-anak akan terbiasa dengan hal-hal otomatis sehingga menekan peluang bagi mereka untuk mengembangkan keterampilan belajar secara mandiri. maka, penting bagi orangtua dan guru dalam membekali, mengawasi, dan mengevaluasi anak-anak dalam rangka menata sistem belajar dan menggunakan teknologi pendidikan secara bijak dan efektif.
+
+Penghubung Antara Siswa dan Guru
+
+Terjadi bias pada saat anak-anak mengembangkan keterampilan belajar mandiri dan ketika anak-anak memanfaatkan teknologi pendidikan. Pembelajaran mandiri berpusat pada kebebasan di siswa dalam menggali dan mengolah informasi. Adapun pembelajaran yang memanfaatkan alat digital, menimbulkan pertanyaan, “Siapakah penanggung jawabnya?” “Apakah itu pelajar, guru, atau alat digital itu sendiri?”. Alat pendidikan digital mengumpulkan banyak data tentang pembelajaran, dan kecerdasan buatan (Artificial Intelligence) dapat menggunakan informasi ini untuk mendapatkan pemahaman yang lebih dalam tentang proses pembelajaran. 
+
+Lalu, apakah data dan algoritma kecerdasan buatan (Artificial Intelligence) dapat digunakan untuk memberdayakan siswa dan guru? Tentu untuk mencapai hal ini, siswa dan guru membutuhkan keterampilan yang lebih kuat untuk memanfaatkan dukungan kecerdasan buatan (Artificial Intelligence) secara maksimal.
+
+Pertama, siswa dan guru harus mampu beradaptasi dengan situasi dan tugas baru, karena perubahan sosial semakin sering terjadi di era kecerdasan buatan (Artificial Intelligence). Semakin banyak alat digital akan dibawa ke ruang kelas, dan guru serta siswa perlu berkolaborasi saat mereka mencari cara untuk menggunakannya secara efektif. 
+
+Kedua, pelajar dan guru perlu berkolaborasi secara produktif dan mahir dengan manusia dan kecerdasan buatan (Artificial Intelligence). Saat siswa bekerja dengan teknologi dalam kelompok, interaksi sosial yang positif dan keterampilan pengaturan seperti perencanaan dan pemantauan adalah kunci pembelajaran (Isohätälä, 2020).
+
+Ketiga, menurut Zulkifli (2006) siswa membutuhkan dukungan sosio-emosional untuk mengatasi masalah yang menantang. disini muncul peran penting orang tua dan keluarga dalam memberikan dukungan itu untuk membantu siswa memahami dan mengelola keadaan emosi dan motivasi mereka sendiri. Tidak kalah penting, siswa perlu  membuat adaptasi skala kecil dalam rangka mewujudkan progres yang nyata (Sobocinski, dkk. 2022). Misalnya, mereka dapat mengambil inisiatif, menetapkan tujuan, dan memantau diri sendiri saat bekerja dengan orang lain dan dengan kecerdasan buatan (Artificial Intelligence). Semua keterampilan dan kompetensi ini sangat penting untuk memberikan kebebasan kepada siswa dan guru. 
+
+ Penerapan AI dalam Kegiatan Pembelajaran
+
+            Terdapat dua pendekatan yang dapat diterapkan untuk menerapkan kecerdasan buatan (AI) di lingkungan pendidikan. Pertama, pengalihan tugas guru ke sistem AI, yang bertindak sebagai tutor untuk setiap siswa. Adanya teknologi pintar yang menyesuaikan konten untuk setiap pembelajar sudah digunakan secara luas di banyak ruang kelas, dalam bentuk sistem tutor cerdas (Moleenar, 2021). Peran alternatif AI adalah untuk menambah kecerdasan manusia dan membantu manusia dalam melakukan kegiatan pembelajaran yang efektif dan efisien.
+
+Terdapat beragam hal yang dapat dilakukan untuk menerapkan  AI dalam kegaiatan pembelajaran. Semakin berkembangnya zaman, menuntut segala bidang termasuk pendidikan untuk beradaptasi maupun berkolaborasi untuk memecahkan masalah.
+
+Mentor Virtual
+Internet sekarang yang universal diciptakan sebagai sarana untuk menyebarkan informasi, pengetahuan, dan pemikiran tentang berbagai topik. Salah satu program yang berjalan bersama The Lab System, yang beroperasi lebih sebagai lingkungan multimedia dengan eLearning terintegrasi, adalah Virtual Mentor. Menurut makalah Jurnal Sistem Informasi Komputer, fitur mentor virtual lebih berguna daripada instruksi kelas biasa (Zhang, 2004).
+
+Jika Learning by Asking (LBA), juga dikenal sebagai pembelajaran interaksi, tidak digunakan, pembelajaran interaksi tidak akan terjadi. Akan ada dua komponen utama saat menggunakan LBA ini (Video Streaming Server dan Web Server). Pengolahan video asli oleh kedua komponen ini akan menghasilkan generasi pertanyaan yang nantinya akan menjadi salah satu data pertanyaan yang selanjutnya dapat dipanggil kembali dan dikembangkan tergantung pada intensitas pertanyaan yang muncul dan perubahan video yang diproses. Ketersediaan mentor virtual seperti LBA membuat kontak menjadi lebih efisien dari sudut pandang manajerial dan keuangan.
+
+
+Voice Assistant
+Pengguna dapat belajar tanpa harus membaca berkat fitur asisten suara atau voice assistant, pengganti suara. Membaca informasi yang mengaktifkan asisten suara akan berbeda dengan proses kognisi manusia seperti penyerapan informasi dari suara. Voice Assistant dijelaskan dalam satu contoh sebagai alat untuk memahami sudut pandang guru. Esai ini membahas bagaimana guru melihat integrasi teknologi asisten suara di kelas, yang akan memberikan wawasan tentang pengaturan ruang kelas di masa depan (Jean-Charles, 2018). Voice Assistant saat ini sedang dikembangkan untuk digunakan di berbagai perangkat teknologi. Dalam ruang kelas, fitur ini mempercepat pencarian siswa terhadap materi-materi tambahan. Adanya voice assistant juga membuat memungkinkan siswa mendapatkan informasi yang transparan dan akurat.
+
+Smart Content
+Sebuah aplikasi bernama Smart Content menawarkan data seperti laporan cuaca, berita terbaru, alarm, dan laporan perdagangan pasar saham. Fungsi ini menyediakan bahan bacaan terbaru dari buku-buku yang baru dirilis serta pencari informasi sesuai dengan kebutuhan pembelajaran yang tercakup dalam bidang pendidikan. Kemampuan ini tersedia dalam aplikasi seperti Cram101, yang membagi buku teks digital menjadi beberapa bab. Hal ini akan memudahkan pembaca—dalam hal ini siswa yakni untuk menggali informasi yang mereka cari.
+
+Presentation Translator
+Presentation Translator atau penterjemah presentasi memiliki kegunaan untuk menjelaskan atau mempresentasikan sebuah teks dari bahasa yang berbeda ke dalam bahasa yang diinginkan. Pengguna hanya perlu mendengarkan berbagai macam teks pidato, artikel, ataupun buku digital tanpa perlu membaca dan menerjemahkan satu persatu. Teknologi ini memungkinan pengguna mendengarkan ucapan atau kalimat bahasa asing ke dalam bahasa ibu mereka.
+
+Simpulan
+
+Kehadiran    teknologi    AI    merupakan sebuah  terobosan  di  bidang teknologi  pendidikan  untuk memudahkan  pembelajaran. Penggunaan teknologi dengan bijak dan terkendali dapat memicu akselerasi pendidikan. Kemunculan teknologi kecerdasan buatan (Artificial Intellegence) juga dapat menanamkan sifat mandiri dalam diri pelajar. Guru tidak dibebani peran yang begitu dominan, namun, tugasnya menjadi spesifik dalam lingkup memberikan pencerahan  dengan  kata  kunci  yang  substansial. Pangkal dari setiap pemanfaatan teknologi bagi guru adalah tetap mengedepankan esensi dari mengajar  yaitu  menata moral dan perilaku dari pelajar. Adapun bagi pelajar, adanya teknologi pendidikan dapat membantu mereka dalam mengontrol dan memantau pembelajaran mereka sendiri, memungkinkan mereka untuk hidup dan bekerja dengan baik di masa depan.
+
+Referensi
+
+Bandura, A. (1997). Self-Efficacy: The Exercise Of Control. New York, Ny: W. H. Freeman And Company.
+
+Boekaerts, M., Pintrich, P. R., And Zeidner, M. (2000). Handbook Of Self-Regulation. San Diego, Ca: Academic Press.
+
+Isohätälä, J., Näykki, P., & Järvelä, S. (2020). Convergences Of Joint, Positive Interactions And Regulation In Collaborative Learning. Small Group Research, 51(2), 229-264.
+
+Järvenoja, H., Malmberg, J., Törmänen, T., Mänty, K., Haataja, E., Ahola, S., & Järvelä, S. (2020, July). A Collaborative Learning Design For Promoting And Analyzing Adaptive Motivation And Emotion Regulation In The Science Classroom. In Frontiers In Education (Vol. 5, P. 111). Frontiers Media Sa.
+
+Luger, George F., Dan William A. Stubblefield.1993. Artificial Intelligence Structures And Strategies For Complexmproblem Soving 2nd Edition. California: The Benjamin/Cumming Publishing Company Inc.
+
+Molenaar, I., Horvers, A., Dijkstra, R., & Baker, R. S. (2020, March). Personalized Visualizations To Promote Young Learners' Srl: The Learning Path App. In Proceedings Of The Tenth International Conference On Learning Analytics & Knowledge (Pp. 330-339).
+
+Molenaar, I. (2021). Personalisation Of Learning: Towards Hybrid Human-Ai Learning Technologies. In OECD Digital Education Outlook 2021: Pushing The Frontiers With Artificial Intelligence, Blockchain And Robots. OECD Publishing, Paris.
+
+Sobocinski, M., Malmberg, J., & Järvelä, S. (2022). Exploring Adaptation In Socially-Shared Regulation Of Learning Using Video And Heart Rate Data. Technology, Knowledge And Learning, 27(2), 385-404.
+
+Tjahyanti, L. P. A. S., Saputra, P. S., & Santo Gitakarma, M. (2022). Peran Artificial Intelligence (Ai) Untuk Mendukung Pembelajaran Di Masa Pandemi Covid-19. Komteks, 1(1).
+
+Van Leeuwen, A., Rummel, N., Holstein, K., Mclaren, B. M., Aleven, V., Molenaar, I., ... & Gal, K. (2018). Orchestration Tools For Teachers In The Context Of Individual And Collaborative Learning: What Information Do Teachers Need And What Do They Do With It?. International Society Of The Learning Sciences, Inc.[ISLS].
+
+Zimmerman, B. J., And Schunk, D. H. (2011). Handbook Of Self-Regulation Of Learning And Performance. New York, Ny: Routledge.
+
+Zulkifli. 2006. Psikologi Perkembangan. Bandung: P.T. Remaja Rosdakarya.
+

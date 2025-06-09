@@ -1,0 +1,88 @@
+Pentingnya tata kelola data kesehatan di era AI: Indonesia harus segera bangun layanan kesehatan terintegrasi
+Diterbitkan: September 20, 2024 11.15am WIB Diperbarui: September 20, 2024 3.15pm WIB
+
+Prabowo-Gibran yang pencalonannya sebagai Presiden dan Wakil Presiden memantik kontroversi telah mulai bekerja sejak 20 Oktober 2024.
+
+Untuk mengawal pemerintahan mereka, kami menerbitkan edisi khusus #PantauPrabowo yang memuat isu-isu penting hasil pemetaan kami bersama TCID Author Network. Edisi ini turut mengevaluasi 10 tahun pemerintahan Joko Widodo, sekaligus menjadi bekal Prabowo-Gibran selama menjalankan tugasnya.
+
+Prabowo Subianto dan Gibran Rakabuming Raka berjanji membangun pertahanan siber yang kuat untuk melindungi data dan informasi penting di dalam negeri. Dalam program Asta Cita yang mereka usung untuk membangun Indonesia selama masa kepemimpinannya, terdapat pula poin terkait penguatan sektor kesehatan.
+
+Menggabungkan keduanya menjadi PR besar bagi pasangan ini dalam menjalankan pemerintahan, terutama dalam pengembangan tata kelola data kesehatan.
+
+Seiring berkembangnya kecerdasan artifisial (AI) di dunia kesehatan, tata kelola data kesehatan yang baik kian dibutuhkan. Data berkualitas tinggi yang terkelola dengan baik akan membantu melatih program yang menganalisis kumpulan data untuk menangkap pola dan membuat prediksi (model AI) sehingga mampu menghasilkan informasi klinis yang andal dan relevan.
+
+Apalagi di era digital saat ini, ketersediaan data kesehatan meningkat pesat. Informasi ini harus dikelola secara tepat agar manfaatnya bisa dirasakan bersama.
+
+Memperkuat tata kelola data kesehatan bermanfaat untuk meningkatkan akses layanan kesehatan masyarakat secara efektif dan efisien. Tata kelola data kesehatan akan menjadi fondasi untuk perawatan kesehatan individu, melahirkan inovasi medis, dan yang terpenting meningkatkan kepercayaan pasien.
+
+Bayangkan kamu mendadak dilarikan ke rumah sakit. Hanya dalam hitungan detik, dokter bisa mengakses riwayat kesehatan kamu secara lengkap, mulai dari riwayat alergi hingga hasil tes kesehatan terbaru. Dokter pun kemudian merekomendasikan terapi yang paling tepat sesuai kondisimu.
+
+Ini bukan potongan adegan film fiksi ilmiah, melainkan potret masa depan layanan kesehatan Indonesia ketika memiliki tata kelola data kesehatan yang kuat.
+
+Pentingnya tata kelola data kesehatan di era AI
+Setidaknya, terdapat tiga alasan mengapa Indonesia perlu segera membangun tata kelola data kesehatan yang saling terhubung (terintegrasi) di era kecerdasan artifisial.
+
+Pertama, untuk memastikan standar pengumpulan, pembuktian (validasi), dan pemeliharaan data kesehatan yang berkualitas. Kedua, untuk melindungi privasi pasien dan menjamin penggunaan data secara etis. Ketiga, untuk mendukung integrasi berbagai jenis data untuk model AI secara komprehensif.
+
+Tata kelola data kesehatan juga berperan penting dalam mengatasi potensi kesalahan (bias) pada AI. Lewat perencanaan dan pengumpulan data kesehatan yang cermat, kesalahan dalam data dapat diidentifikasi dan diminimalkan.
+
+Pembakuan (standardisasi) data juga diperlukan, misalnya lewat penggunaan aplikasi terpadu yang akan memperlancar kegiatan berbagi informasi antara penyedia layanan kesehatan, peneliti, dan pembuat kebijakan. Hal ini pada gilirannya akan meningkatkan efisiensi operasional dan mendorong keterlibatan pasien (pengguna aplikasi).
+
+Sebaliknya, tata kelola data kesehatan yang buruk justru berisiko menimbulkan ancaman serius. Ancaman paling nyata adalah meningkatnya risiko pelanggaran data, insiden ketika pihak tidak bertanggung jawab mencuri informasi rahasia, seperti identitas pribadi sehingga berpotensi menghilangkan kepercayaan publik. Data pasien yang sulit diakses karena terbagi-bagi (terfragmentasi) juga dapat menghambat perawatan yang efektif, menyebabkan keterlambatan, dan berpotensi membahayakan keselamatan pasien.
+
+Lebih lanjut, tata kelola data yang lemah dapat menghambat penelitian dan inovasi di bidang kesehatan
+
+
+Dalam situasi krisis, data yang tidak dapat diandalkan akan sangat menghambat upaya penanganan, sebagaimana terlihat pada fase awal pandemi COVID-19.
+
+Pelanggaran aturan akibat tata kelola data yang buruk juga bisa membawa risiko hukum bagi fasilitas kesehatan dan menyebabkan kerugian finansial.
+
+Belajar dari negara lain
+Indonesia bisa belajar dari kesuksesan berbagai negara yang telah mempraktikkan tata kelola data kesehatan yang baik. European Health Data Space, misalnya, menekankan pentingnya aturan berbagi data lintas batas yang harmonis. Aturan ini bertujuan untuk memberdayakan individu dengan memberikan kendali atas data kesehatan mereka, memfasilitasi layanan kesehatan, serta memungkinkan penggunaan kembali data kesehatan untuk penelitian dan pembuatan kebijakan. Inisiatif ini mendukung terciptanya sistem yang aman, tepercaya, dan sejalan dengan regulasi.
+
+Sementara, Health Data Research di Inggris, menyediakan kerangka kerja yang memungkinkan peneliti menggunakan data kesehatan pasien untuk penelitian, tetapi privasi data pasien tetap terlindungi.
+
+
+Di Amerika Serikat (AS), Health Insurance Portability and Accountability Act (HIPAA) menyediakan aturan yang bisa menjaga privasi data kesehatan pasien. Di sisi lain, data ini bisa digunakan untuk kebaikan masyarakat.
+
+E-Health Estonia dan Secondary Use of Health Data di Finlandia membuat tata kelola data yang mengedepankan transparansi, kemampuan pertukaran data lintas wilayah dan organisasi (interoperabilitas), serta keamanan pengelolaan data kesehatan.
+
+Estonia mendukung pasien mengontrol data mereka melalui sistem terpusat berteknologi blockchain. Adapun Finlandia mengizinkan penggunaan data sekunder untuk riset dan kebijakan pemerintah. Estonia dan Finlandia memastikan efisiensi dan perlindungan privasi yang dilakukan sesuai dengan perundang-undangan privasi Eropa, The General Data Protection Regulation (GDPR). Kedua negara menunjukkan bahwa tata kelola data yang kuat dapat meningkatkan layanan kesehatan, penyesuaian layanan sesuai kebutuhan pasien (personalisasi), dan inovasi berbasis data.
+
+Lalu, bagaimana dengan Indonesia?
+
+Tantangan di Indonesia
+Indonesia menghadapi tantangan unik dalam penerapan tata kelola data kesehatan. Soalnya, negara ini memiliki jumlah penduduk yang banyak dan beragam serta kondisi alam yang bervariasi.
+
+Karena itu, diperlukan kerangka kerja yang menyeluruh untuk membangun tata kelola data kesehatan yang kokoh. Ini mencakup penetapan peran yang jelas dalam pengumpulan data, standar kualitas data, peraturan berbagi data, perlindungan privasi pasien, pedoman etika kesehatan, mekanisme keterlibatan pasien, serta proses audit dan jaminan kualitas.
+
+Undang-Undang Nomor 27 Tahun 2022 tentang Perlindungan Data Pribadi (UU PDP) menyediakan kerangka hukumnya. Pedoman lebih spesifik mengenai pengelolaan dan pertukaran data di fasiltas kesehatan, terutama yang berada di bawah koordinasi Kementerian Kesehatan (Kemenkes) tertera dalam Peraturan Pemerintah (PP) Nomor 28 Tahun 2024.
+
+PP No. 28 Tahun 2024 dapat diperkuat dengan menambahkan protokol rinci soal penanganan kasus pelanggaran data dan penetapan kriteria yang detail untuk transfer data lintas batas dan wilayah. Aturannya juga perlu diselaraskan dengan standar internasional.
+
+Peraturan tersebut perlu menyertakan pula panduan spesifik mengenai penanganan teknologi baru, seperti AI, komputasi awan, big data, keamanan siber, termasuk mekanisme pengawasan yang kuat untuk mencegah pelanggaran data.
+
+Pengembangan aplikasi data terpadu, seperti Satu Data Indonesia dan SATUSEHAT harus diupayakan bersama dengan melibatkan semua pemangku kepentingan. Investasi dalam infrastruktur teknis juga sangat diperlukan, termasuk pembangunan sistem informasi kesehatan yang terintegrasi dan platform pertukaran data yang aman.
+
+Mengingat banyaknya jumlah daerah di Indonesia, penyediaan fasilitas pendukung, seperti internet mungkin dapat dilakukan secara bertahap, dimulai dari wilayah perkotaan.
+
+Hal yang tidak kalah penting adalah pemberdayaan individu. Manusia merupakan titik paling rentan dalam banyak kasus keamanan siber, seperti kebocoran data kesehatan. Karena itu, perlu diadakan pelatihan manajemen data dan literasi digital, terutama pengembangan kemampuan di bidang AI dan keamanan siber. Pemerintah juga bisa menjalin kemitraan dengan organisasi internasional untuk memperkaya wawasan dan mendapatkan dukungan.
+
+Agar strategi tata kelola data berjalan sukses, pemerintah harus bisa membangun kepercayaan publik, baik masyarakat maupun korporasi. Caranya dengan mengedukasi masyarakat seputar manfaat berbagi data dan transparansi dalam penggunaan data. Selain itu, pemerintah harus memikirkan strategi yang tepat untuk korporasi agar kepatuhan terhadap aturan tidak menambah biaya besar (signifikan) yang bisa menghambat inovasi.
+
+Namun, perlu diingat bahwa langkah-langkah di atas harus didukung oleh sumber daya yang kuat dan kolaborasi strategis agar tidak terjebak dalam pengembangan yang berulang dan tidak efektif, yang justru dapat menghambat percepatan inovasi dan penerapan teknologi yang sudah ada.
+
+Libatkan banyak pihak
+Untuk mewujudkan revolusi layanan dan stuktur tata kelola data kesehatan di Indonesia, diperlukan pembentukan otoritas data kesehatan nasional dan komite tata kelola. Lembaga ini akan membantu mengelola sistem berbagi data secara efektif.
+
+Tak hanya itu, Indonesia juga harus memiliki panduan pelaksanaan rencana (implementation roadmap) yang konkret dan terukur. Tahap pertama bisa dimulai lewat proyek percobaan (pilot project) di kota-kota besar, dilanjutkan dengan evaluasi dan penyempurnaan sistem sebelum diberlakukan secara nasional.
+
+Penting untuk melibatkan startup kesehatan lokal yang berpotensi memberikan solusi inovatif dengan pengelolaan biaya yang efektif (cost-effective). Misalnya, perusahaan swasta pengembang aplikasi telemedicine maupun sistem manajemen data kesehatan berbasis komputasi awan. Kerja sama ini sangat strategis untuk mempercepat transformasi digital kesehatan yang bertanggung jawab dan berkelanjutan.
+
+Hal ini sebenarnya sudah dimulai lewat pembentukan Regulatory Sandbox Kemenkes sejak April 2023. Regulartory Sandbox adalah program pengembangan inovasi digital kesehatan oleh Kemenkes untuk menilai kemampuan pengelolaan sebuah unit bisnis. Alur tata kelola penggunaan data kesehatan di Indonesia akan melibatkan lintas kementerian. Karena itu, Regulatory Sandbox perlu diperluas dengan menambah peserta dari kementerian lain yang terkait, seperti Kementerian Komunikasi dan Informasi serta Kementerian Dalam Negeri dan Luar Negeri.
+
+Lebih jauh, tata kelola data kesehatan perlu diintegrasikan dengan isu kesehatan prioritas di masyarakat yang lebih luas, misalnya untuk tata kelola penanganan penyakit tuberkulosis yang lebih baik. Sistem ini bisa menjadi kunci dalam mewujudkan pemerataan layanan kesehatan di daerah terpencil melalui telemedicine dan pertukaran data yang efisien.
+
+Jalan di depan mungkin penuh tantangan, tetapi upaya ini sangat penting untuk membuka potensi transformasi kesehatan digital yang menyeluruh di Indonesia. Dengan komitmen bersama dari pemerintah, pihak swasta, dan masyarakat, Indonesia dapat membangun sistem tata kelola data kesehatan yang kuat, aman, dan bermanfaat bagi kesehatan publik dan individu.
+
+

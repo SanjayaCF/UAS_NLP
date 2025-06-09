@@ -1,0 +1,92 @@
+Apa itu Artificial Intelligence?
+
+Artificial Intelligence atau kerap dikenal dengan AI adalah sejenis teknologi di bidang ilmu komputer yang memiliki kemampuan khusus untuk memecahkan masalah. Dengan kecerdasannya yang disebut-sebut mampu menyaingi kemampuan kognitif manusia, teknologi AI nyatanya mampu membantu beragam pekerjaan manusia dari yang mudah sampai yang rumit sekalipun.
+
+Sebagai contoh Artificial Intelligence (AI) yang sudah marak digunakan adalah ChatGPT. Sejak akhir 2022, teknologi AI yang satu ini dirilis oleh Open AI dan cukup menarik perhatian banyak orang. Di mana, kehadirannya mampu menopang berbagai bentuk pekerjaan manusia seperti pencarian informasi jauh lebih cepat, brainstorming ide, maupun membantu mencari referensi tugas akademik. Hal ini semakin menegaskan betapa bergunanya teknologi AI bagi kehidupan sehari-hari.
+
+Asisten Virtual
+
+Asisten Virtual merupakan salah satu contoh Artificial Intelligence pertama yang banyak digunakan dalam kehidupan sehari-hari. Seperti peranan asisten pada umumnya, teknologi ini mampu membantu berbagai pekerjaan manusia seperti pencarian informasi, pengaturan jadwal meeting, membacakan e-mail, bahkan mengingatkan sejumlah acara penting yang perlu dihadiri.
+
+ChatGPT merupakan salah satu contoh dari AI berbentuk asisten virtual. Di mana, teknologi itu mampu membantu sejumlah pekerjaan sehari-hari layaknya brainstorming ide, mengumpulkan informasi, serta membantu mengerjakan konten teks. Tidak heran, jika AI menjadi andalan banyak orang karena sejumlah manfaat yang ditawarkan.
+
+Selain itu, asisten virtual yang biasanya digunakan dalam kehidupan sehari-hari juga menghadirkan fitur suara layaknya teknologi milik sejumlah perusahaan ternama yaitu Siri dan Google Assistant. Keduanya terbukti mampu menggantikan tugas-tugas yang biasanya kamu selesaikan dengan bantuan teknologi AI.
+
+Ada beberapa contoh yang sering digunakan :
+
+Chat GPT
+Chat GPT adalah Natural Language Processing (NLP) yang mampu menggunakan algoritma machine learning dan deep learning untuk memahami konteks dari suatu percakapan dan menghasilkan tanggapan yang sesuai.
+
+Chat GPT dapat digunakan untuk tugas-tugas spesifik seperti customer service, menjawab pertanyan konsumen, dan mengaktifkan fitur seperti pengenalan kata kunci, analisis sentimen, dan memberi respons.
+
+Dengan kemampuannya untuk memahami konteks dan menghasilkan percakapan yang menarik, Chat GPT memungkinkan bisnis mengotomatiskan tugas layanan pelanggan dan menciptakan pengalaman personal untuk pelanggan mereka. Chat GPT juga memungkinkan perusahaan untuk memiliki lebih banyak waktu untuk fokus pada pekerjaan yang lebih penting untuk membantu meningkatkan kepuasan pelanggan.
+
+Hotpot.AI
+Hotpot.AI adalah contoh aplikasi kecerdasan buatan yang mampu menghasilkan grafik, gambar, dan teks yang menakjubkan. Kamu hanya perlu memberikan perintah teks sebagai input untuk memberikan instruksi tertentu. Hotpot.AI juga mampu memperbaiki foto jadul dan menyempurnakannya menjadi foto beresolusi tinggi.
+
+Hotpot.AI juga dapat digunakan untuk memberi warna pada foto, menghapus objek tidak diinginkan pada foto, menghapus background, dan masih banyak lagi.
+
+Syenthesia.AI
+Syenthesia.AI adalah contoh aplikasi kecerdasan buatan yang dapat membantu untuk membuat konten video berkualitas tinggi dengan cepat dan mudah. Syenthesia.AI menggunakan teknologi NLP untuk menghasilkan ide dan menyarankan gambar yang relevan.
+
+Syenthesia.AI juga menawarkan berbagai alat analitik untuk melacak kinerja konten di berbagai platform seperti instagram, YouTube, dan sebagainya. Dengan antarmuka yang intuitif, Syenthesia.AI mampu memudahkan pembuat konten untuk membuat konten menarik dengan mudah dan cepat.
+
+Sembly.AI
+Buat yang malas mencatat materi saat online meeting, bisa digunakan sembly.ai untuk merekam percakapan dan merubahnya menjadi catatan tertulis.
+
+Sembly.ai juga dapat menjadi asisten yang dapat merapikan materi menjadi lebih terorganisir sehingga nyaman untuk dibaca. Dengan sembly.ai, bisa fokus mengerjakan hal yang lebih penting dengan hasil berkualitas tinggi dengan cepat dan efisien.
+
+Fitur sembly.ai meliputi koreksi tata bahasa dan ejaan otomatis, peningkatan kualitas bacaan, dan banyak lagi. Memungkinkan untuk lebih fokus pada kreativitas daripada tugas pengeditan yang membosankan.
+
+Lalal.AI
+Lalal.ai adalah salah satu contoh aplikasi kecerdasan buatan yang dapat digunakan untuk pekerjaan berbasis audio dan video. Tools ini dapat membantu memisahkan audio instrumental dan vokal dan mengeditnya sesuai dengan preferensi kamu.
+
+Lalal.ai cocok untuk penggunaan personal dan korporasi yang ingin menghasilkan konten dengan cepat dan mudah. Berbagai fitur yang dimiliki dapat digunakan untuk menghasilkan video promosi yang menarik dan memikat dengan efektif.
+
+Dengan antarmuka penggunanya yang intuitif, kamu dapat dengan mudah membuat template, membuat konten interaktif, menganalisis engagement rate, hanya dengan beberapa klik mouse. Lalal.ai adalah contoh aplikasi kecerdasan buatan yang hebat untuk siapa saja yang ingin meningkatkan produktivitas mereka.
+
+Supermeme.AI
+Meme telah menjadi salah satu budaya internet terbesar di era digital. Hanya dengan gambar atau video, dapat memasukkan komedi, pesan filosofi, dan sindiran ke dalam konten singkat. Jika ada pertanyaan apakah ada AI untuk membuat meme, Supermeme.ai adalah salah satu contoh kecerdasan buatan yang dapat menjawab rasa penasaran kamu.
+
+Supermeme.ai dapat digunakan untuk menemukan meme yang sesuai untuk situasi apa pun dan mendukung lebih dari 110 bahasa. Supermeme.ai juga cocok buat yang menggunakan meme untuk melakukan digital marketing.
+
+Dall-E 2
+DALL-E 2 adalah contoh aplikasi kecerdasan buatan yang memungkinkan pengguna menghasilkan gambar dari teks. DALL-E 2 dikembangkan oleh OpenAI, perusahaan riset kecerdasan buatan terkemuka milik Elon Musk. Dengan DALL-E 2, pengguna dapat membuat konten berkualitas tinggi dengan cepat dan mudah.
+
+DALL-E 2 memiliki beberapa fitur yang membuatnya menonjol dari AI lainnya, DALL-E 2 dapat menghasilkan gambar menggunakan model deep learning. DALL-E 2 juga menawarkan antarmuka yang intuitif dan dapat digunakan untuk berbagai tugas seperti menghasilkan gambar dari deskripsi teks. Selain itu, DALL-E 2 juga menyediakan berbagai pilihan yang dapat digunakan untuk menghasilkan output yang sesuai dengan kebutuhan.
+
+Media Sosial
+
+Siapa sangka jika terdapat suatu platform yang juga memanfaatkan teknologi AI dan telah digunakan hampir setiap hari oleh masyarakat. Nyatanya, media sosial menjadi salah satu contoh AI dalam kehidupan sehari-hari, seperti Facebook dan Instagram. Keduanya menggunakan teknologi AI untuk mengenali dan mempelajari interest para penggunanya sehingga konten yang ditawarkan dapat sesuai dengan minat para pengguna
+
+Tidak hanya itu, Twitter nyatanya juga menggunakan teknologi AI untuk mendeteksi tweet yang mengandung ujaran kebencian. Pada sejumlah media sosial tersebut, Artificial Intelligence bertugas menghimpun semua data para user. Nantinya, konten-konten yang ditampilkan pada akun pengguna akan sesuai dengan minat dan kebutuhan para user.
+
+Search Engine
+
+Contoh AI berikutnya adalah fitur search engine atau mesin pencarian. Di mana, teknologi ini menjadi salah satu contoh Artificial Intelligence yang paling sering digunakan dalam kehidupan sehari-hari. Dengan fitur ini, pengguna bisa mendapatkan hasil pencarian yang paling relevan serta sesuai dengan informasi yang kamu butuhkan.
+
+Dalam melakukan browsing pada browser maupun sejumlah platform lain, kotak mesin pencarian biasanya menampilkan saran topik untuk pengguna. Di mana, saran kalimat pencarian yang relevan dapat menghemat waktu serta menghadirkan kenyamanan untuk mencari informasi. Bukan secara tiba-tiba, kecocokan tersebut merupakan hasil dari data user yang telah dihimpun dan dipelajari oleh mesin pencarian dengan menggunakan teknologi AI.
+
+Aplikasi Streaming Musik dan Film
+
+Apakah kamu termasuk orang yang suka mendengarkan musik di platform streaming musik, seperti Spotify, JOOX, dan Apple Music? Mungkin kamu juga sering menonton film populer terkini dari platform streaming film, seperti Netflix, Disney+ Hotstar, dan Vidio? Siapa sangka kalau kedua jenis platform streaming tersebut merupakan contoh Artificial Intelligence yang sering kita gunakan pada aktivitas harian.
+
+Misalnya ketika sedang mengakses layanan streaming musik, platform tersebut menghadirkan sejumlah rekomendasi lagu-lagu dengan genre musik favoritmu. Hal tersebut merupakan hasil dari kecerdasan buatan yang mempelajari kebiasaan user dalam mendengarkan beberapa lagu tertentu sehingga mampu mengkurasi lagu yang sesuai minatmu.
+
+Mobile Banking
+
+Contoh Teknologi Artificial Intelligence kelima nyatanya hadir dari dunia perbankan. Di mana, sistem yang dahulu dijalankan secara manual kini dapat dioperasionalkan secara otomatis. Di mana, pihaknya memanfaatkan aplikasi mobile banking atau m-banking untuk para pengguna agar bisa melakukan transaksi keuangan apa saja tanpa perlu khawatir tidak adanya mesin ATM terdekat.
+
+Kehadiran m-banking menjadi salah satu contoh Artificial Intelligence yang berguna dalam kehidupan sehari-hari. Apalagi, teknologi ini mampu mengembangkan sistem perbankan menjadi jauh lebih efisien dan aman terutama untuk dinikmati oleh para pengguna sehingga transaksi keuangan dapat jauh lebih aman tanpa perlu pusing memikirkan di mana lokasi mesin ATM terdekat.
+
+Aplikasi Transportasi Online
+
+Apakah kamu sering menggunakan aplikasi transportasi online, seperti Grab, Gojek, atau Maxim untuk kehidupan sehari-harimu? Faktanya, platform tersebut juga memanfaatkan teknologi AI untuk mempermudah pengoperasian bagi para pengguna. Aplikasi transportasi online menjadi contoh Artificial Intelligence berikutnya dalam kehidupan sehari-hari yang mungkin juga jarang kamu sadari.
+
+Di mana, teknologi AI dimanfaatkan untuk mengelola interaksi user dengan fitur aplikasi transportasi online. Misalnya, ketika memesan layanan ojek online, kamu akan menerima pesan notifikasi yang menyampaikan di mana posisi driver ojek online hingga lama waktu tunggu yang kamu perlukan. Nah, semua itu dapat terjadi karena adanya penggunaan teknologi AI dalam aplikasi transportasi online.
+
+Aplikasi Berbelanja Online
+
+Aplikasi berbelanja online mungkin menjadi salah satu contoh Artificial Intelligence (AI) terakhir yang sering kamu gunakan namun tidak menyadari kehadiran kehebatan kecerdasan buatannya. Berbagai platform berbelanja itu sering kamu gunakan untuk melengkapi berbagai kebutuhan dan nyatanya mengandalkan teknologi AI dalam pengoperasiannya.
+
+Penggunaan teknologi tersebut tentunya untuk memaksimalkan pengalaman berbelanja sehingga terasa lebih personal karena sejumlah saran produk yang disesuaikan dengan minat para user. Rekomendasi tersebut merupakan buah dari pola pemilihan produk yang paling sering kamu lihat dan dipelajari oleh Artificial Intelligence sehingga mampu mengkurasi produk terbaik bagi penggunanya.
