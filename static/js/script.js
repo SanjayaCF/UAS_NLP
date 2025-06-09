@@ -1,94 +1,89 @@
-document.getElementById('upload-form').addEventListener('submit', function(e) {
-});
+document.getElementById('upload-form').addEventListener('submit', e=>{});
 
 document.getElementById('predict-form').addEventListener('submit', function(e) {
   e.preventDefault();
-
-  const queryText = document.getElementById('query').value.trim();
-  const resultsDiv = document.getElementById('predict-results');
-  const docsDiv = document.getElementById('docs-results');
+  const q = document.getElementById('query').value.trim();
+  const outSug = document.getElementById('predict-results');
+  const outDocs = document.getElementById('docs-results');
   const canvas = document.getElementById('simChart');
   let simChart = Chart.getChart("simChart");
 
-  if (!queryText) {
-    resultsDiv.innerHTML = '';
-    docsDiv.innerHTML = '';
+  if (!q) {
+    outSug.innerHTML = '';
+    outDocs.innerHTML = '';
     if (simChart) simChart.destroy();
     return;
   }
 
+  outSug.innerHTML = '<div class="spinner"></div>';
+  outDocs.innerHTML = '';
+
   fetch('/api/predict', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ query: queryText })
+    method:  'POST',
+    headers: {'Content-Type':'application/json'},
+    body:    JSON.stringify({query:q})
   })
-  .then(response => response.json())
+  .then(r => r.json())
   .then(data => {
-    let htmlSug = '<h3>Prediksi Kata Berikutnya</h3>';
-    if (data.suggestions.length > 0) {
-      htmlSug += '<table><thead><tr><th>Kata Berikutnya</th><th>Probabilitas</th></tr></thead><tbody>';
-      data.suggestions.forEach(item => {
-        htmlSug += `<tr><td>${item.word}</td><td>${item.prob.toFixed(4)}</td></tr>`;
+    let hs = '<h3>Prediksi Kata Berikutnya</h3>';
+    if (data.suggestions.length) {
+      hs += '<table><thead><tr><th>Kata</th><th>Prob.</th></tr></thead><tbody>';
+      data.suggestions.forEach(s => {
+        hs += `<tr><td>${s.word}</td><td>${s.prob.toFixed(4)}</td></tr>`;
       });
-      htmlSug += '</tbody></table>';
+      hs += '</tbody></table>';
     } else {
-      htmlSug += `<p><em>Tidak ada saran untuk "<strong>${queryText}</strong>".</em></p>`;
+      hs += `<p class="empty">Tidak ada saran untuk "<strong>${q}</strong>".</p>`;
     }
-    resultsDiv.innerHTML = htmlSug;
+    outSug.innerHTML = hs;
 
-    let htmlDocs = '<h3>Dokumen Relevan</h3>';
-    const labels = [];
-    const scores = [];
-    if (data.docs.length > 0) {
-      htmlDocs += '<table><thead><tr><th>Nama Dokumen</th><th>Skor Relevansi</th></tr></thead><tbody>';
-      data.docs.forEach(doc => {
-        labels.push(doc.filename);
-        scores.push(doc.score);
-        htmlDocs += `<tr><td>${doc.filename}</td><td>${doc.score.toFixed(4)}</td></tr>`;
+    let hd = '<h3>Dokumen Relevan</h3>';
+    const labels = [], scores = [];
+    if (data.docs.length) {
+      hd += '<table><thead><tr><th>Dokumen</th><th>Skor</th><th>Preview</th></tr></thead><tbody>';
+      data.docs.forEach(d => {
+        labels.push(d.filename);
+        scores.push(d.score);
+        hd += `<tr>
+                 <td>${d.filename}</td>
+                 <td>${d.score.toFixed(4)}</td>
+                 <td class="preview">${d.snippet}</td>
+               </tr>`;
       });
-      htmlDocs += '</tbody></table>';
+      hd += '</tbody></table>';
     } else {
-      htmlDocs += `<p><em>Tidak ada dokumen relevan untuk "<strong>${queryText}</strong>".</em></p>`;
+      hd += `<p class="empty">Tidak ada dokumen relevan untuk "<strong>${q}</strong>".</p>`;
     }
-    docsDiv.innerHTML = htmlDocs;
+    outDocs.innerHTML = hd;
 
+    // chart
     if (simChart) simChart.destroy();
-
-    if (labels.length > 0) {
+    if (labels.length) {
       const ctx = canvas.getContext('2d');
       simChart = new Chart(ctx, {
         type: 'bar',
-        data: {
-          labels: labels,
-          datasets: [{
-            label: 'Skor Cosine Similarity',
-            data: scores,
-            borderWidth: 1,
-            backgroundColor: 'rgba(54, 162, 235, 0.5)',
-            borderColor: 'rgba(54, 162, 235, 1)'
-          }]
-        },
+        data: { labels, datasets: [{
+          label:'Skor Cosine Similarity',
+          data:scores,
+          backgroundColor:'rgba(30,58,138,0.6)',
+          borderColor:'rgba(30,58,138,1)',
+          borderWidth:1
+        }]},
         options: {
-          scales: {
-            y: {
-              beginAtZero: true,
-              title: { display: true, text: 'Similarity' }
-            },
-            x: {
-              title: { display: true, text: 'Dokumen' }
-            }
+          responsive:true,
+          scales:{
+            y:{beginAtZero:true, title:{display:true,text:'Similarity'}},
+            x:{ title:{display:true,text:'Dokumen'} }
           },
-          plugins: {
-            legend: { display: false }
-          }
+          plugins:{legend:{display:false}}
         }
       });
     }
   })
-  .catch(err => {
-    console.error('Error pada API predict:', err);
-    resultsDiv.innerHTML = '<p><em>Terjadi kesalahan saat prediksi.</em></p>';
-    docsDiv.innerHTML = '<p><em>Terjadi kesalahan saat mengambil dokumen.</em></p>';
+  .catch(err=>{
+    console.error(err);
+    outSug.innerHTML = '<p class="empty">Terjadi kesalahan.</p>';
+    outDocs.innerHTML= '<p class="empty">Terjadi kesalahan.</p>';
     if (simChart) simChart.destroy();
   });
 });
