@@ -10,7 +10,7 @@
 <body>
   <div class="container">
     <h1>Tugas Pemrograman Akhir NLP | Tugas B</h1>
-    <p class="authors">
+    <p class="anggotaKelompok">
       <strong>
         71220840 - Rendy Ananta Kristanto<br>
         71220841 - Yosua Sutanto Putra<br>
@@ -68,19 +68,19 @@
         <button type="submit" class="btn-predict">Prediksi & Cari Dokumen</button>
       </form>
 
-      <div id="predict-results" class="results" style="margin-top:20px;"></div>
-      <div id="docs-results" class="results" style="margin-top:20px;"></div>
-      <canvas id="simChart" class="chart" style="max-width:100%; margin-top:20px;"></canvas>
+      <div id="predict-results" class="results"></div>
+      <div id="docs-results" class="results"></div>
+      <canvas id="simChart" class="chart"></canvas>
     </div>
 
     {% if has_visuals %}
       <div class="section">
-        <h2>☁️ Word Cloud</h2>
+        <h2>Word Cloud</h2>
         <img id="wc-img" src="{{ url_for('static', filename='wordcloud.png') }}" alt="Word Cloud"/>
       </div>
 
       <div class="section">
-        <h2>📈 Top 10 Token</h2>
+        <h2>Top 10 Token</h2>
         <img id="top-img" src="{{ url_for('static', filename='top_tokens.png') }}" alt="Top 10 Token"/>
       </div>
     {% endif %}
