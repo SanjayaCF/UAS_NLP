@@ -1,0 +1,18 @@
+Dosen FTI UKDW Kembangkan Sistem Essay Scoring Berbasis Kemiripan Teks
+Peran sistem manajemen pembelajaran jarak jauh atau lebih dikenal sebagai Learning Management System (LMS) semakin meningkat pascapandemi Covid-19. Dimana para pendidik dan peserta didik semakin terbiasa terhadap pembelajaran dengan moda daring maupun bauran. Keterbiasaan ini juga meningkatkan kebutuhan untuk memberikan tes secara daring dan penilaian tes secara otomatis. 
+
+Sejauh ini, LMS telah menyediakan piranti penilaian soal pilihan ganda dan benar salah yang berfungsi sangat optimal sehingga memudahkan guru dan dosen untuk mengoreksi serta pemberian penilaian. Akan tetapi, penilaian otomatis untuk pertanyaan terbuka masih menjadi tantangan yang cukup signifikan sehingga membuka lebar peluang peningkatan kinerja sistem penilaian jawaban singkat atau automated short answer grading (ASAG).
+
+Menjawab tantangan tersebut, tim peneliti dari Program Studi Informatika Universitas Kristen Duta Wacana (UKDW) Yogyakarta berupaya mengembangkan sistem penilaian jawaban terbuka atau ASAG. Tim peneliti yang terdiri atas Dr. Phil. Lucia Dwi Krisnawati, Aditya Wikan Mahastama, S.Kom., M.Cs., Natanael Tegar Pramudya, dan Excelsior Valentino Yonathan, mengembangkan sistem ASAG berdasarkan deteksi kemiripan teks, sehingga dapat diterapkan dalam penilaian untuk jawaban deskriptif dan naratif. 
+
+Dr. Phil. Lucia Dwi Krisnawati selaku ketua peneliti menyebutkan, penelitian ini bertujuan untuk menerapkan hasil penelitian sebelumnya tentang deteksi kemiripan teks untuk pengembangan aplikasi penilaian otomatis jawaban terbuka. Selanjutnya, timnya berupaya mengembangkan sistem tersebut sehingga bisa ditanamkan ke sistem pembelajaran jarak jauh (LMS) atau eclass.
+
+Dalam penelitian ini, tim menggunakan sistem arsitektur dari sistem penilaian yang terdiri dari 2 modul utama yakni modul deteksi kemiripan teks dan modul penilaian. Di modul pertama, sistem mencoba mengukur nilai vektor kemiripan jawaban peserta didik dengan kunci jawaban yang disediakan guru di tataran semantik dan leksikal.
+
+Adapun metode penelitian yang diterapkan adalah pendekatan kuantitatif eksperimental. “Terkait pengumpulan data, kami mengumpulkan soal ujian dan tugas dari mata kuliah yang kami ampu. Selain itu, kami juga mengumpulkan data latih dari SMP Stella Maris Surabaya. Kasus penggunaan sistem (use case) didasarkan pada kasus riil dimana guru/dosen membuat soal dan memberikan kunci jawaban,” ungkapnya.
+
+Dr. Phil. Lucia Dwi Krisnawati menambahkan fitur yang digunakan untuk penilaian adalah nilai vektor kemiripan semantik dan leksikal antara kunci jawaban dan jawaban, panjang jawaban, serta kekayaan kosa kata (vocabulary richness). Sedangkan teknik penilaian dilakukan dengan pendekatan pembelajaran mesin (machine learning). Dengan fitur-fitur yang telah diekstraksi maka penerapan beberapa model klasifikasi dan regresi sangatlah dimungkinkan. 
+
+Penelitian ini menghasilkan purwarupa yang efisien, bisa digunakan, bisa dikembangkan lebih jauh lagi, dan ditanamkan ke sistem manajemen LMS. Adapun purwarupa ini telah terdaftarkan dan mendapatkan hak kekayaan intelektual (HAKI). 
+
+Penerapan deteksi kemiripan teks dalam sistem penilaian esai dan jawaban deskriptif ini akan meringankan beban guru dan dosen dalam mengoreksi jawaban. Selain itu, tipe soal dalam sistem LMS akan memungkinkan guru dan dosen memberikan soal terbuka dengan jawaban deskriptif yang tentunya akan menuntut peserta didik untuk belajar lebih mendalam dan mengasah kemampuan menulis mereka.
