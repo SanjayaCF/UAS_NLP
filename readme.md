@@ -79,15 +79,15 @@ This formula gives a higher weight to terms that are rare across all documents.\
 ![Rumus IDF](gambarRumus/idf.png)
 
 ### TF-IDF
-This score is the product of TF and IDF and represents the importance of a term in a document relative to the entire corpus./
+This score is the product of TF and IDF and represents the importance of a term in a document relative to the entire corpus.\
 ![Rumus TF-IDF](gambarRumus/tf-idf.png)
 
 ### Cosine Similarity
-We use this to measure the similarity between the query and each document based on their TF-IDF vectors./
+We use this to measure the similarity between the query and each document based on their TF-IDF vectors.\
 ![Rumus Cosine Similarity](gambarRumus/cosineSimilarity.png)
 
 ### Laplace Smoothing
-This is used in our N-gram model to handle words that haven't been seen before, preventing zero-probability issues./
+This is used in our N-gram model to handle words that haven't been seen before, preventing zero-probability issues.\
 ![Rumus Laplace Smoothing](gambarRumus/laplaceSmoothing.png)
 
 ---
