@@ -2,12 +2,6 @@
 
 This project is a web-based application that analyzes a corpus of text documents. It provides functionalities for text preprocessing, n-gram analysis, word prediction, and relevant document retrieval using TF-IDF and cosine similarity.
 
-## Team Members
-
-* **71220840** - Rendy Ananta Kristanto
-* **71220841** - Yosua Sutanto Putra
-* **71220965** - Sanjaya Cahyadi Fuad
-
 ---
 
 ## Features
@@ -78,7 +72,7 @@ The state of the application, including the processed documents, n-gram counts, 
 
 ### Term Frequency (TF)
 This formula calculates how often a term appears in a document.
-![Rumus TF](https://i.imgur.com/your_tf_image_url.png)
+![Rumus TF](gambarRumus/tf.png)
 
 ### Inverse Document Frequency (IDF)
 This formula gives a higher weight to terms that are rare across all documents.
