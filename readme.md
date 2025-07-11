@@ -71,24 +71,24 @@ The state of the application, including the processed documents, n-gram counts, 
 ## Formulas Used
 
 ### Term Frequency (TF)
-This formula calculates how often a term appears in a document.
+This formula calculates how often a term appears in a document.\
 ![Rumus TF](gambarRumus/tf.png)
 
 ### Inverse Document Frequency (IDF)
-This formula gives a higher weight to terms that are rare across all documents.
-![Rumus IDF](https://i.imgur.com/your_idf_image_url.png)
+This formula gives a higher weight to terms that are rare across all documents.\
+![Rumus IDF](gambarRumus/idf.png)
 
 ### TF-IDF
-This score is the product of TF and IDF and represents the importance of a term in a document relative to the entire corpus.
-![Rumus TF-IDF](https://i.imgur.com/your_tfidf_image_url.png)
+This score is the product of TF and IDF and represents the importance of a term in a document relative to the entire corpus./
+![Rumus TF-IDF](gambarRumus/tf-idf.png)
 
 ### Cosine Similarity
-We use this to measure the similarity between the query and each document based on their TF-IDF vectors.
-![Rumus Cosine Similarity](https://i.imgur.com/your_cosine_image_url.png)
+We use this to measure the similarity between the query and each document based on their TF-IDF vectors./
+![Rumus Cosine Similarity](gambarRumus/cosineSimilarity.png)
 
 ### Laplace Smoothing
-This is used in our N-gram model to handle words that haven't been seen before, preventing zero-probability issues.
-![Rumus Laplace Smoothing](https://i.imgur.com/your_laplace_image_url.png)
+This is used in our N-gram model to handle words that haven't been seen before, preventing zero-probability issues./
+![Rumus Laplace Smoothing](gambarRumus/laplaceSmoothing.png)
 
 ---
 ## Project Structure
