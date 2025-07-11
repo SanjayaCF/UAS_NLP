@@ -1,101 +1,127 @@
-# Project Akhir UAS NLP
-71220840 - 71220841 - 71220965
+# Text-Analysis-and-Prediction-App
 
-## Sumber Data
----------------
-Seluruh artikel yang digunakan dalam proyek ini diperoleh dari sumber-sumber berikut:
-- Artikel 1 : [rendy1.txt source](https://aws.amazon.com/id/what-is/artificial-intelligence/)
-- Artikel 2 : [rendy2.txt source](https://theconversation.com/pentingnya-tata-kelola-data-kesehatan-di-era-ai-indonesia-harus-segera-bangun-layanan-kesehatan-terintegrasi-239383)
-- Artikel 3 : [rendy3.txt source](https://ppg.dikdasmen.go.id/news/peranan-kecerdasan-buatan-artificial-intelligence-dalam-pendidikan)
-- Artikel 4 : [rendy4.txt source](https://diskominfo.mukomukokab.go.id/artikel/teknologi-ai-bagaimana-kecerdasan-buatan-mengubah-industri-di-seluruh-dunia)
-- Artikel 5 : [rendy5.txt source](https://www.djkn.kemenkeu.go.id/kanwil-jakarta/baca-artikel/16291/Artificial-Intelligence-AI-Pembantu-Pekerjaan-Manusia.html)
-- Artikel 6 : [yosua1.txt source](https://www.kompasiana.com/lianafitri7184/67e87e54c925c44b563744f2/dinamika-ekonomi-perilaku-di-tengah-transformasi-digital)
-- Artikel 7 : [yosua2.txt source](https://www.liputan6.com/bisnis/read/5981341/harga-emas-antam-ubs-dan-galeri24-pegadaian-jelang-lebaran-intip-daftarnya)
-- Artikel 8 : [yosua3.txt source](https://money.kompas.com/read/2025/03/30/123249126/tol-japek-ii-selatan-dibuka-gratis-mulai-2-april-tapi-bus-dan-truk-dilarang)
-- Artikel 9 : [yosua4.txt source](https://www.tempo.co/ekonomi/kisruh-izin-impor-bawang-putih-diprediksi-rugikan-masyarakat-rp-3-85-triliun-per-tahun-1225320)
-- Artikel 10: [yosua5.txt source](https://money.kompas.com/read/2025/03/30/112000826/puncak-arus-balik-diprediksi-pada-6-maret-2025-begini-persiapan-jasa-marga)
-- Artikel 11: [sanjaya1.txt source](https://itk.ac.id/rangkaian-kegiatan-dies-natalis-6-institut-teknologi-kalimantan/berita/sinergi-pemerintah-dan-pendidikan-tinggi-untuk-kemajuan-bangsa-di-istana-merdeka)
-- Artikel 12: [sanjaya2.txt source](https://indonesia.go.id/kategori/sosial-budaya/9121/pemerintah-luncurkan-tunas-kebijakan-baru-lindungi-anak-di-dunia-digital?lang=1)
-- Artikel 13: [sanjaya3.txt source](https://indonesia.go.id/kategori/sosial-budaya/9121/pemerintah-luncurkan-tunas-kebijakan-baru-lindungi-anak-di-dunia-digital?lang=1)
-- Artikel 14: [sanjaya4.txt source](https://indonesia.go.id/kategori/sosial-budaya/9121/pemerintah-luncurkan-tunas-kebijakan-baru-lindungi-anak-di-dunia-digital?lang=1)
-- Artikel 15: [sanjaya5.txt source](https://indonesia.go.id/kategori/sosial-budaya/9121/pemerintah-luncurkan-tunas-kebijakan-baru-lindungi-anak-di-dunia-digital?lang=1)
-- Artikel 16: [ukdw1.txt source](https://ukdw.ac.id/tracer-study-alumni-gathering-chapter-bandung-jakarta-pererat-silaturahmi-tingkatkan-kompetensi/)
-- Artikel 17: [ukdw2.txt source](https://ukdw.ac.id/ukdw-dan-walailak-university-satukan-visi-menuju-kolaborasi-akademik-unggul/)
-- Artikel 18: [ukdw3.txt source](https://ukdw.ac.id/dosen-fti-ukdw-kembangkan-sistem-essay-scoring-berbasis-kemiripan-teks/)
-- Artikel 19: [ukdw4.txt source](https://ukdw.ac.id/ukdw-dan-lembaga-alkitab-indonesia-teken-kerja-sama-bidang-penerjemahan-pendidikan-dan-pelayanan-digitalukdw-dan-lembaga-alkitab-indonesia-teken-kerja-sama-bidang-penerjemahan-pukdw-dan-lai-teken/)
-- Artikel 20: [ukdw5.txt source](https://ukdw.ac.id/ukdw-dan-pppk-petra-bersinergi-memperkuat-pendidikan-kristen-di-indonesia/)
+This project is a web-based application that analyzes a corpus of text documents. It provides functionalities for text preprocessing, n-gram analysis, word prediction, and relevant document retrieval using TF-IDF and cosine similarity.
 
-## Rumus yang Digunakan
+## Team Members
 
-1. **N-Gram**
+* **71220840** - Rendy Ananta Kristanto
+* **71220841** - Yosua Sutanto Putra
+* **71220965** - Sanjaya Cahyadi Fuad
 
-   * Unigram: Token tunggal
-   * Bigram: Kombinasi dua token berurutan
-   * Trigram: Kombinasi tiga token berurutan
+---
 
-2. **Perhitungan TF-IDF:**
-   - Setiap dokumen direpresentasikan sebagai sekumpulan token beserta frekuensi kemunculannya.
-   - **TF (Term Frequency):**\
-     Rumus:\
-     ![Rumus TF}](gambarRumus/tf.png)
+## Features
 
-     Yang di mana *t* adalah token dan *d* adalah dokumen.
-     
-   - **IDF (Inverse Document Frequency):**\
-     Rumus:\
-     ![Rumus IDF}](gambarRumus/idf.png)
+* **Document Upload:** Users can upload multiple .txt documents for processing.
+* **Corpus Statistics:** Displays statistics of the processed documents, including the total number of documents, and the counts of unigrams, bigrams, and trigrams.
+* **Word Cloud and Top Tokens:** Generates a word cloud and a bar chart of the top 10 most frequent tokens in the corpus.
+* **Word Prediction:** Suggests the next word based on a given query of one or two words, using a trigram model with Laplace smoothing.
+* **Relevant Document Search:** Retrieves and ranks the most relevant documents for a given query using TF-IDF and cosine similarity.
+* **Reset Functionality:** Allows users to reset the entire corpus, deleting all uploaded documents and saved states.
 
-     Yang di mana *N* adalah jumlah total dokumen, dan DF(t) adalah jumlah dokumen yang mengandung token.
-     
-   - **TF-IDF:**\
-     Rumus:\
-     ![Rumus TF-IDF}](gambarRumus/tf-idf.png)
+---
 
-3. **Pencarian Dokumen:**
-   - **Cosine Similarity:**  
-     Digunakan untuk mengukur kesamaan antara vektor TF-IDF dokumen dengan vektor query.\
-     Rumus:\
-     ![Rumus Cosine Similarity}](gambarRumus/cosineSimilarity.png)
+## How It Works
 
-     Yang di mana:
-       - v₁ • v₂ adalah dot product dari vektor v₁ dan v₂.
-       - ||v₁|| dan ||v₂|| adalah norma (magnitudo) dari masing-masing vektor.
+The application is built with **Flask**, a Python web framework. Here's a breakdown of the core components:
 
-4. **Laplace Smoothing** (untuk prediksi token berikutnya dalam n-gram)
+### 1. Preprocessing
 
-   * Rumus:\
-     ![Rumus Laplace Smoothing](gambarRumus/laplaceSmoothing.png)
+When a text file is uploaded, it goes through the following preprocessing steps:
+1.  **Lowercase Conversion:** The entire text is converted to lowercase.
+2.  **Punctuation and Special Character Removal:** All non-alphabetic characters are removed.
+3.  **Tokenization:** The text is split into a list of words (tokens).
+4.  **Stopword Removal:** Common Indonesian stopwords are removed using the `nltk` library.
+5.  **Stemming:** Words are reduced to their root form using the `Sastrawi` library.
 
-## Langkah Pengerjaan
+### 2. N-Gram Language Model
 
-1. **Pramuat Model dan Stopwords**
+The application builds unigram, bigram, and trigram models from the processed tokens:
+* **Unigram, Bigram, and Trigram Counts:** The frequencies of single tokens, pairs of consecutive tokens, and triplets of consecutive tokens are counted.
+* **Word Prediction:** For a given input query, the application uses the trigram and bigram models to predict the next word. It applies **Laplace smoothing** to handle unseen n-grams and calculates the probability of each potential next word.
 
-   * Load stopword Bahasa Indonesia dari NLTK
-   * Load stemmer dari Sastrawi
+### 3. Document Retrieval (TF-IDF and Cosine Similarity)
 
-2. **Inisialisasi dan Preprocessing Dokumen**
+To find relevant documents for a query, the application uses the **TF-IDF (Term Frequency-Inverse Document Frequency)** vector space model:
+* **TF (Term Frequency):** The frequency of each term in a document.
+* **IDF (Inverse Document Frequency):** The inverse of the frequency of a term across all documents. This gives higher weight to terms that are rare across the corpus.
+* **TF-IDF Vector:** Each document is represented as a vector of TF-IDF scores for each term.
+* **Cosine Similarity:** When a user enters a query, it is also converted into a TF-IDF vector. The **cosine similarity** is then calculated between the query vector and each document vector to determine the relevance of the documents. The documents are then ranked and displayed in descending order of their similarity scores.
 
-   * Membaca dokumen .txt dari folder `uploads`
-   * Membersihkan dan memproses teks menjadi token yang relevan
+### 4. Persistence
 
-3. **Perhitungan & Pembobotan**
+The state of the application, including the processed documents, n-gram counts, and TF-IDF vectors, is saved to a pickle file (`corpus_data.pkl`). This allows the application to be restarted without losing the processed data.
 
-   * Hitung frekuensi unigram, bigram, trigram
-   * Hitung TF dan DF untuk seluruh dokumen
-   * Hitung TF-IDF setiap dokumen dan simpan sebagai vektor
+---
 
-4. **Visualisasi Data**
+## How to Use
 
-   * WordCloud berdasarkan frekuensi unigram
-   * Grafik batang top 10 token terbanyak
+1.  **Run the application:**
+    ```bash
+    python app.py
+    ```
+2.  **Upload Documents:**
+    * Click on the "Choose Files" button and select one or more `.txt` files to upload.
+    * Click "Upload & Proses Dokumen" to process the files.
+3.  **View Corpus Information:**
+    * The "Total" section displays the overall statistics of the corpus.
+    * The "Word Cloud" and "Top 10 Token" sections visualize the most frequent words.
+4.  **Predict Next Word and Find Relevant Documents:**
+    * Enter one or two words in the "Query" input field.
+    * Click "Prediksi & Cari Dokumen".
+    * The "Prediksi Kata Berikutnya" table shows the most likely next words with their probabilities.
+    * The "Dokumen Relevan" table displays the documents most relevant to your query, along with a snippet of the text where the query appears.
 
-5. **Query Processing**
+---
 
-   * Query pengguna diproses seperti dokumen
-   * Dihitung vector TF-IDF query dan dibandingkan ke seluruh dokumen menggunakan cosine similarity
-   * Menyediakan saran token berikutnya berdasarkan trigram/bigram
+## Formulas Used
 
-6. **Ekspor dan Impor State**
+### Term Frequency (TF)
+This formula calculates how often a term appears in a document.
+![Rumus TF](https://i.imgur.com/your_tf_image_url.png)
 
-   * Menyimpan state corpus (dokumen, frekuensi, vektor TF-IDF) dalam file pickle untuk efisiensi
-   * Saat dijalankan kembali, state dapat dimuat ulang dari file pickle
+### Inverse Document Frequency (IDF)
+This formula gives a higher weight to terms that are rare across all documents.
+![Rumus IDF](https://i.imgur.com/your_idf_image_url.png)
+
+### TF-IDF
+This score is the product of TF and IDF and represents the importance of a term in a document relative to the entire corpus.
+![Rumus TF-IDF](https://i.imgur.com/your_tfidf_image_url.png)
+
+### Cosine Similarity
+We use this to measure the similarity between the query and each document based on their TF-IDF vectors.
+![Rumus Cosine Similarity](https://i.imgur.com/your_cosine_image_url.png)
+
+### Laplace Smoothing
+This is used in our N-gram model to handle words that haven't been seen before, preventing zero-probability issues.
+![Rumus Laplace Smoothing](https://i.imgur.com/your_laplace_image_url.png)
+
+---
+## Project Structure
+
+```
+
+├── app.py \# Main Flask application
+├── readme.md \# This file
+├── DATASOURCES.md \# List of data sources
+├── static
+│   ├── css
+│   │   └── style.css \# Stylesheet
+│   ├── js
+│   │   └── script.js \# JavaScript for interactivity
+│   ├── top\_tokens.png \# Generated plot of top tokens
+│   └── wordcloud.png \# Generated word cloud
+├── templates
+│   └── index.html \# Main HTML template
+└── uploads \# Directory for uploaded text files
+├── rendy1.txt
+├── rendy2.txt
+├── ...
+
+```
+
+---
+
+## Data Sources
+
+This project was developed using a corpus of articles from various online news and academic sources. For a complete list of the data sources, please see [DATASOURCES.md](DATASOURCES.md).
